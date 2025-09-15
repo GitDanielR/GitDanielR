@@ -1,16 +1,40 @@
-## Hi there 👋
+# Daniel Reyes  
 
-<!--
-**GitDanielR/GitDanielR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Senior Computer Engineering Student @ Auburn University (Graduating May 2026)  
+💡 Focus: Software Development | Embedded Systems | Neuromorphic Hardware  
+📊 GPA: 4.0/4.0 | Spirit of Auburn Founders Scholar  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- **Languages:** Python, C++, Verilog, ARM Assembly, Full Stack Web Development  
+- **Tools:** MATLAB, SolidWorks  
+
+---
+
+## Experience  
+
+**Software Developer – UDA Technologies** (2024–2025)  
+- Built and enhanced web-based construction management features serving 100K+ users  
+- Designed PDF/Excel reports and modernized UI components  
+
+**Software Developer – Mechanics of Materials Lab** (2023–2024)  
+- Integrated material simulation tools (Atomsk + OpenKIM)  
+- Developed meshing algorithms for atomistic-continuum modeling  
+
+**Software Developer (Volunteer) – Advanced Flow Diagnostics Lab** (2023–2024)  
+- Networked 18 Raspberry Pi cameras for experiments  
+- Built MATLAB GUI with live camera controls and OpenCV integration  
+
+---
+
+## Involvement  
+- Tau Beta Pi (Engineering Honor Society)  
+- IEEE, Competitive Programming, Ethical Hacking Clubs  
+- Auburn eSports Team  
+
+---
+
+## Contact  
+📧 [dar0070@auburn.edu](mailto:dar0070@auburn.edu)  
+🔗 [linkedin.com/in/DanielReyes-AU](https://www.linkedin.com/in/DanielReyes-AU)  
